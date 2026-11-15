@@ -1,45 +1,20 @@
 # Oi, eu sou o Saulo 👋
 
-**Senior Mobile Engineer** · iOS (Swift) · Flutter · Android
-📍 São Carlos, SP · Mais de 15 anos construindo apps mobile
+Sou especialista em desenvolvimento mobile. Vim do iOS nativo, hoje trabalho bastante com Flutter e Android, e gosto de pensar na arquitetura antes que o app cresça e alguém precise perguntar: “por que isso tá aqui?” 😄
 
-Trabalho com apps corporativos e atuo na migração de iOS nativo para Flutter. Gosto de arquitetura limpa, performance e ferramentas que deixam o time mais produtivo, e uso IA no dia a dia de desenvolvimento.
+No dia a dia, desenho a arquitetura de apps, ajudo na migração de nativo para Flutter e compartilho com o time o que funcionou (e o que eu não faria de novo).
 
-### 🛠️ Stack
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+**Minha caixa de ferramentas:** Flutter, Dart, Swift e Kotlin. Pra organizar a casa: Clean Architecture, BLoC, injeção de dependência e testes.
 
-### 📦 Pacotes open source (publicados no pub.dev)
-| Projeto | O que é |
-|---|---|
-| [lumen-kit](https://github.com/saulogatti/lumen-kit) | Kit de componentes de UI para Flutter, com testes e CI |
-| [log_custom_printer](https://github.com/saulogatti/log_custom_printer) | Logger customizável para Dart/Flutter |
-| [clean_arch_lint](https://github.com/saulogatti/clean_arch_lint) | Regras de lint que garantem Clean Architecture em projetos Flutter |
-| [typed_cache_json](https://github.com/saulogatti/typed_cache_json) | Cache tipado com serialização JSON para Dart |
+### 📦 Coisas que eu construo por aqui
 
-### 💡 No que eu foco
-- Arquitetura mobile escalável (Clean Architecture, Bloc, injeção de dependência)
-- Performance e componentes customizados
-- Migração de nativo para multiplataforma
-- IA aplicada ao desenvolvimento mobile
+| Projeto | Pra que serve |
+| --- | --- |
+| [Lumen Kit](https://github.com/saulogatti/lumen-kit) | Componentes de UI reutilizáveis pra Flutter. |
+| [clean_arch_lint](https://github.com/saulogatti/clean_arch_lint) | Regras de lint pra pegar dependências entre camadas onde elas não deveriam estar. |
+| [log_custom_printer](https://github.com/saulogatti/log_custom_printer) | Logs customizáveis pra enxergar mais rápido o que o app tá fazendo. |
+| [typed_cache_json](https://github.com/saulogatti/typed_cache_json) | Cache tipado com serialização JSON pra Dart. |
 
-### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/saulo-gatti) · saulogomesgatti@gmail.com
-<!--
-**saulogatti/saulogatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Também gosto de automatizar as partes chatas do desenvolvimento e testar onde a IA ajuda de verdade. Fora do código, curto conversar sobre carro e motor. Às vezes dá pra juntar os dois. 🔧
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/saulo-gatti)
