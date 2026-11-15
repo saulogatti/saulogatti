@@ -1,10 +1,10 @@
 # Oi, eu sou o Saulo 👋
 
-Sou especialista em desenvolvimento mobile. Vim do iOS nativo, hoje trabalho bastante com Flutter e Android, e gosto de pensar na arquitetura antes que o app cresça e alguém precise perguntar: “por que isso tá aqui?” 😄
+Sou especialista em desenvolvimento mobile. Trabalho com Flutter e Android e continuo no iOS nativo, inclusive fazendo manutenção em código Objective-C. Gosto de pensar na arquitetura antes que o app cresça e alguém precise perguntar: “por que isso tá aqui?” 😄
 
 No dia a dia, desenho a arquitetura de apps, ajudo na migração de nativo para Flutter e compartilho com o time o que funcionou (e o que eu não faria de novo).
 
-**Minha caixa de ferramentas:** Flutter, Dart, Swift e Kotlin. Pra organizar a casa: Clean Architecture, BLoC, injeção de dependência e testes.
+**Minha caixa de ferramentas:** Flutter, Dart, Swift, Objective-C e Kotlin. Pra organizar a casa: Clean Architecture, BLoC, injeção de dependência e testes.
 
 ### 📦 Coisas que eu construo por aqui
 
