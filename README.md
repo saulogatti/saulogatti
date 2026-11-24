@@ -1,20 +1,26 @@
+![Saulo Gatti, Senior Mobile Engineer: iOS, Swift, Flutter e Android](image/banner.png)
+
 # Oi, eu sou o Saulo 👋
 
-Sou especialista em desenvolvimento mobile. Trabalho com Flutter e Android e continuo no iOS nativo, inclusive fazendo manutenção em código Objective-C. Gosto de pensar na arquitetura antes que o app cresça e alguém precise perguntar: “por que isso tá aqui?” 😄
+Sou engenheiro mobile. Trabalho com Flutter e Android e sigo firme no iOS nativo, inclusive mantendo código em Objective-C. Gosto de pensar na arquitetura antes que o app cresça e alguém precise perguntar: “por que isso tá aqui?” 😄
 
-No dia a dia, desenho a arquitetura de apps, ajudo na migração de nativo para Flutter e compartilho com o time o que funcionou (e o que eu não faria de novo).
+No dia a dia, desenho a arquitetura dos apps, conduzo migrações de nativo para Flutter e divido com o time o que funcionou (e o que eu não faria de novo).
 
-**Minha caixa de ferramentas:** Flutter, Dart, Swift, Objective-C e Kotlin. Pra organizar a casa: Clean Architecture, BLoC, injeção de dependência e testes.
+- **Linguagens:** Dart, Swift, Objective-C e Kotlin
+- **Plataformas:** Flutter, iOS e Android
+- **Pra manter a casa em ordem:** Clean Architecture, BLoC, injeção de dependência e testes
 
-### 📦 Coisas que eu construo por aqui
+### 📦 O que eu construo por aqui
 
 | Projeto | Pra que serve |
 | --- | --- |
-| [Lumen Kit](https://github.com/saulogatti/lumen-kit) | Componentes de UI reutilizáveis pra Flutter. |
-| [clean_arch_lint](https://github.com/saulogatti/clean_arch_lint) | Regras de lint pra pegar dependências entre camadas onde elas não deveriam estar. |
+| [lumen-kit](https://github.com/saulogatti/lumen-kit) | Kit de UI pra Flutter com componentes reutilizáveis, brilho neon e gradientes, tudo ajustável pelo tema. |
+| [clean_arch_lint](https://github.com/saulogatti/clean_arch_lint) | Regras de lint que apontam, já na IDE, a dependência entre camadas que não deveria existir. |
 | [log_custom_printer](https://github.com/saulogatti/log_custom_printer) | Logs customizáveis pra enxergar mais rápido o que o app tá fazendo. |
-| [typed_cache_json](https://github.com/saulogatti/typed_cache_json) | Cache tipado com serialização JSON pra Dart. |
+| [typed_cache_json](https://github.com/saulogatti/typed_cache_json) | Cache de objetos tipados pra Dart, guardados em JSON. |
 
-Também gosto de automatizar as partes chatas do desenvolvimento e testar onde a IA ajuda de verdade. Fora do código, curto conversar sobre carro e motor. Às vezes dá pra juntar os dois. 🔧
+Também gosto de automatizar as partes chatas do desenvolvimento e de testar onde a IA ajuda de verdade. Fora do código, curto conversar sobre carro e motor, e às vezes dá pra juntar os dois. 🔧
 
-[LinkedIn](https://www.linkedin.com/in/saulo-gatti)
+### 📫 Onde me encontrar
+
+[🌐 Site](https://saulogatti.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/saulo-gatti)
